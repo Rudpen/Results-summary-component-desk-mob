@@ -1,0 +1,16 @@
+@media (max-width: 24em) {
+  .component {
+    flex-direction: column;
+    margin: 0;
+    box-shadow: none;
+  }
+  .result {
+    width: 100%;
+    border-radius: 0;
+    border-bottom-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+  }
+  .attribution {
+    display: none;
+  }
+}

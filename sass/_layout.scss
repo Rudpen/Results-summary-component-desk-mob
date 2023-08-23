@@ -1,0 +1,13 @@
+.component {
+  max-width: 60rem;
+  margin: 5rem auto;
+  display: flex;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 2.5rem;
+  position: relative;
+  box-shadow: 0.5rem 1rem 3rem hsl(221, 100%, 94%);
+}
+.attribution {
+  text-align: center;
+  font-size: 1.4rem;
+}
